@@ -1,40 +1,36 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: YESDR
-Label: YESDR
-Suite: stable
-Codename: stable
-Version: 1.0
-Architectures: amd64
-Components: main
-Description: YESDR Official APT Repository
-Date: Wed, 14 Jan 2026 06:10:34 +0000
+Date: Wed, 14 Jan 2026 06:20:47 +0000
 MD5Sum:
- 154544bb2cc05bfadb89f2cf428771da               38 Release
- 1ae3fcd25b5ba1542d4af4370675c640              526 main/binary-amd64/Packages.gz
+ c5cfe3877aaa0782432ba57a21335a14               38 Release
+ faea0d562d720b871198c2ff4042d85d              568 main/binary-amd64/Packages
+ f913a1ae3088db0ed28b457ef440606b              442 main/binary-amd64/Packages.gz
 SHA1:
- 651d460e37323a0855ab2d871ce2aed1bafffcd7               38 Release
- 9edbfc741e0f9d833e4098a2b7eec890ee0989ec              526 main/binary-amd64/Packages.gz
+ 8976a09b9934db040ad6c81d698f9e1ad378c44e               38 Release
+ 4ea8325b88d56739fe9b7031e0002e6f0d703461              568 main/binary-amd64/Packages
+ 8150ac912316d4b3a3c3933d652f5d7db6527554              442 main/binary-amd64/Packages.gz
 SHA256:
- 5ee2c8fdc8159df35e27829170434ec36b190e0b745c13c510ad357a7f393057               38 Release
- 3364ddc283e70c38e51fa848b272d7055115648f1c93ae6f815aaa9dae53457f              526 main/binary-amd64/Packages.gz
+ e7fc75f973532712127f214cc544d9368592af7e0439c28bf7a4c2f4b96fe93b               38 Release
+ 920785cdbb17f7ea46af23433c2a8b72fc0609c4165b0ece2ab061a93948a98c              568 main/binary-amd64/Packages
+ e3e134f299d5aeb8159f6e4046e6990ed759a7b3842fb16d077823e5afcee705              442 main/binary-amd64/Packages.gz
 SHA512:
- aa4431175d7fd2619b43546c648eb9cd852c784f6431360f055a41f5c6545831b3f0f396d3498f860f30a41176f37a03445ccf5a5d92ca91e0d7d841d2e3973a               38 Release
- cbbd455c0892fb1840904b72b389e2c87d49caa2d9455376dcf0a4a7602b7bc17f72c9fdeec702d34a214f50e97e785f0e898fcc518a06a413d3518765e6747c              526 main/binary-amd64/Packages.gz
+ 20ee8e209d4bc212ce0d33f7a5204729cbf2d584da31560acf9a9d30de79794bb7e822d455d0f17db5067777a3d05d7ab6e72a1f29b77c7221f7031bfaedf689               38 Release
+ 97f95a25b63cb91345666aa246499f6e0b634ef4022fa71300fca9a9113555f3f6dd0c5f0a7e0f801c582f6118e098fb7eda78010f546ec2f575177c7cd2bb13              568 main/binary-amd64/Packages
+ 4239e1e0571841780a041fcf4694744699cb99181eb1ac32eef7967db35e4721b8ffa7faf3f33f14428e3e97cea57ef905270989d50402475114120a7b838773              442 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEW93/ZcEMnYP45AlgAu8ADVnVVoIFAmlnM5EACgkQAu8ADVnV
-VoIwbw/6Alv1GeW/Dm+6meoBzUiQU++R179H2Axw3MFrP6v9IhP+h7U/feBPo75F
-lM66+CYtTtp9KC9LMPJWOxVsDfHrgQTr+X5xn9QWuUGk6DboULb+wxyeLVjhxhAp
-f1AQ539FqiGq3JLgatc96KmMcwieAf/QNUom9iLjJM0fCwTUUPyYnA4tZOgXpjj4
-WVm4GIGzaXl0533Cm8K61jgVwq0zrFXYkThrIcqt2u+IaDdunQZKrNc++WODqd4V
-T5ZuGQZO84IvTNgaNGiJyUAFFTyG2MyOhAuvQoE2TCzzB4VqbYadeax0aVEcu/cK
-57fCo49a3cq0omMCTMhq8LP9VFdgkHfrFrJgCjMz0Tk8hxxHyHVpKTHLd+OpTmo/
-mnMOI7LPrIN1EqtgpTBV9kLq2RaE12vVEv2Gd/gy8yBfxTzE+icRPULPGYnia7sy
-iB73gGlm0wGahvsFPlRSKH9nf4PzFgvdlwh86PGBWO7Wv35BEu0wOUnQC7Nk3HgA
-IAKjnDAG29Sh+VpjaPbOhCvAd+ncomMlUN916NVXkQTmNCdz+15kXD+WlbaHf6Mz
-osIXj4NTPRc9MjDdgGl4TjTnEeYp96f3u/1xDPEdJbjT9KMLfX+b6kQIPcttzS4S
-MU9cliCrhISMkKa3NqRKLpqZ3GBP0wmnFbwttvRSyJwpx6WxPFI=
-=EIMz
+iQIzBAEBCgAdFiEEW93/ZcEMnYP45AlgAu8ADVnVVoIFAmlnNcUACgkQAu8ADVnV
+VoIpWA//fWFpVddShcYtAwB9/Xrvb6Vl1707uIkMxjKyTatkviYAR1uxx3GPT5ZI
+BDHuony89dbIpI753VDcge8OyPMo33IGgq+PsBeVaErOcOyv7JBOAaQo7FuKpdrb
+ZKAvYWO4fRNgaAJi6YQWjT7OYjXJhE9AXTwVnycrs0RorEYzYzfjh3L81GjktupA
+Wb46pLvax5ZrhKbr/iGBu+WNpLo9Qy0fVMXpSgB9djDADLtqmFg/kqQYajXpRRk0
+JaoYCddy5CNVazMKuyGw3BCzbg1Tt7NsNFgXy4O+SgLKqEcRxSrsMWQscnRkn7hr
+O4lSDONPKS1IIy94unWsRtDFB04ZahmvYkziqG/Qx0ap8rWEh7VIz0INn52RWwBE
+aFOE8qpWbHeu6/5K/Nt+N8OrA/n2C0WmcZ3y3yCPL7+S7TuGIwoforvchqB2gx0G
+nld+TIWzG35SMrBefxDqG0ARoUf8HselgB+8VyrcktEFlcyL5Q9v9Z1PPqEycleC
+7qStJUuWfrBfAKnd4tXfXbHeiSUQsJSG9zvH824cAXGAqY2AzgKwJ/bsNdpJ6HuX
+88LEAhhPT6oy27LCMi1uEBLKDEPBHfzpSDgnZ5ErXbVEcupb74+xwZO0JTc7oJA9
+D2fYn+7bK2hjSH5c0J6jIrtPS0tg9VY+X/W9f0mJ8jggrle2EX4=
+=YRw+
 -----END PGP SIGNATURE-----
