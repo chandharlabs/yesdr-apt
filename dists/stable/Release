@@ -1,13 +1,21 @@
-Date: Wed, 14 Jan 2026 05:59:31 +0000
+Origin: YESDR
+Label: YESDR
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: YESDR Official APT Repository
+Date: Wed, 14 Jan 2026 06:10:34 +0000
 MD5Sum:
- 022d607062fa66282fa01a624501d41c               38 Release
- 2d79ffc9245080a7fdb304a3c08e4c92              526 main/binary-amd64/Packages.gz
+ 154544bb2cc05bfadb89f2cf428771da               38 Release
+ 1ae3fcd25b5ba1542d4af4370675c640              526 main/binary-amd64/Packages.gz
 SHA1:
- 4a80b63dc373aa0bb9448bcd6e42309e70ec764a               38 Release
- 2d46bff3b0cc2d7e5aee952f6ce8f2dbb30bcb15              526 main/binary-amd64/Packages.gz
+ 651d460e37323a0855ab2d871ce2aed1bafffcd7               38 Release
+ 9edbfc741e0f9d833e4098a2b7eec890ee0989ec              526 main/binary-amd64/Packages.gz
 SHA256:
- 4ae6f2131ad840d534dff279be0c27c6ccdec03d21a554c4fdaee554523297f8               38 Release
- d494513a06d7d88494d4c1e7d9573721c36e9595d63a646f4f63467254fee9a4              526 main/binary-amd64/Packages.gz
+ 5ee2c8fdc8159df35e27829170434ec36b190e0b745c13c510ad357a7f393057               38 Release
+ 3364ddc283e70c38e51fa848b272d7055115648f1c93ae6f815aaa9dae53457f              526 main/binary-amd64/Packages.gz
 SHA512:
- 32b6e3058750a5bafb621995f5015aa9a57e2456ff27d6bd3aab72561e77b795654e8fb87bc47fc58ed187322a501bd5fef1786e1645801969c4d0e439ae430c               38 Release
- d10c218fc4986adbe2d784eb50ea741051b26672617892bb05fcfc5d1a37675d8cfbb8faf6d35b3c58bbc2e5d4bc89c57b20b5b4e16fea64ce8447c0175b96b9              526 main/binary-amd64/Packages.gz
+ aa4431175d7fd2619b43546c648eb9cd852c784f6431360f055a41f5c6545831b3f0f396d3498f860f30a41176f37a03445ccf5a5d92ca91e0d7d841d2e3973a               38 Release
+ cbbd455c0892fb1840904b72b389e2c87d49caa2d9455376dcf0a4a7602b7bc17f72c9fdeec702d34a214f50e97e785f0e898fcc518a06a413d3518765e6747c              526 main/binary-amd64/Packages.gz
