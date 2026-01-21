@@ -1,0 +1,16 @@
+Package: yesdr
+Version: 1.0.0
+Architecture: amd64
+Maintainer: YESDR Consortium <support@yesdr.org>
+Depends: python3, systemd
+Filename: pool/main/y/yesdr/yesdr_1.0.0_amd64.deb
+Size: 96152456
+MD5sum: 4e8c2693faa761eed7e39f08239cc7f2
+SHA1: 8613c756e85f930e9e0cf44db2c6bfb0b771b97a
+SHA256: d82d35c0439287abb96c53446b5dbce7bae7925f81eec0420643839c54b02f5a
+Section: net
+Priority: optional
+Description: YESDR – Your Extensible Software Defined Radio Platform
+ A modular 5G/SDR core network and radio framework packaged with
+ prebuilt runtime, services, and configuration.
+
