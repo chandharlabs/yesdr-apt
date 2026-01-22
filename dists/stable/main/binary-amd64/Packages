@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: YESDR Consortium <support@yesdr.org>
 Depends: python3, systemd
 Filename: pool/main/y/yesdr/yesdr_1.0.0_amd64.deb
-Size: 96408826
-MD5sum: 8b66f2591385516a7d8b34a05c549fa0
-SHA1: d2459af86635b4d817936fd595d3f063b7582664
-SHA256: 5f72d270efe21a5a3e467fd31a6eb662f612da3eb42c3ddc905beeaab8bc07b0
+Size: 96493160
+MD5sum: 3cd595bf45a982d410344ac05c1bf931
+SHA1: 95751f198326706365d70895e12d3a10ff1f9491
+SHA256: e1cd57f60005e88edbd023f32001bcba47f4f5303895468f0e5284f6bffe2e00
 Section: net
 Priority: optional
 Description: YESDR – Your Extensible Software Defined Radio Platform
