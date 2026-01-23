@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 23 Jan 2026 10:51:38 +0000
+Date: Fri, 23 Jan 2026 11:24:04 +0000
 Description: YESDR Official APT Repository
 Label: YESDR
 Origin: YESDR
 Suite: stable
 MD5Sum:
- 1e5c068875d77b90701f375068bee640              177 Release
- 985c05ea91fb9766cd2a26b3f2b1a3a7              568 main/binary-amd64/Packages
- 7d72ceb43357a553ea4422ca3119af66              439 main/binary-amd64/Packages.gz
+ 04efeade3d215778cbe7ca4099d6444d              177 Release
+ c1155a1c49cc2839a53a531bab07bf13              568 main/binary-amd64/Packages
+ 88f5c2d9024324962a361e9215c2f607              441 main/binary-amd64/Packages.gz
 SHA1:
- 9052d27e0c47f4abea982d6e04fe77c289195dee              177 Release
- 80b87abcd6a83c40e32151d38f000818c2144557              568 main/binary-amd64/Packages
- 6595aac98c11c9d554734da66078d15d39312267              439 main/binary-amd64/Packages.gz
+ 5dd761254afef57536b66a5769ad2b4e70e77822              177 Release
+ 50477f03689cf0595b4eb0ca9aabb09cd41a8f80              568 main/binary-amd64/Packages
+ 6a0f189c1cfb1a1a3789006edd4828c5536a5cfd              441 main/binary-amd64/Packages.gz
 SHA256:
- 39a7c39233d09b1b7c53aa881ebc0a8b7908b9763b1d037598b07a885b0f18f6              177 Release
- 96b832d6cac4a3ea1109f136f4dca19f84c24a47753a96a2d4e23f8ff9ff0e63              568 main/binary-amd64/Packages
- ae3d57a6f3d437fbd3379a57d20c42be4b9452e18aee4da06fb4c6c7332ce068              439 main/binary-amd64/Packages.gz
+ f4535871d856269119f9c03b350a204304432044a3fbbee622f686999e3308d4              177 Release
+ e841019c371aadfdf19b693be4e9a064bfa955f56c0953aedc74b295612aede0              568 main/binary-amd64/Packages
+ a2bb8c88a7e94cc72bc3794a8aa78e9df5c5b45cc9c5ca4b8db5ccdff83508f2              441 main/binary-amd64/Packages.gz
 SHA512:
- 55d8ed5f7651ea271fc227ee829555a0b9309d84c4912fee9371f1257b6d1b4cb6e82564f039bdd725cff100720441ccadd16973034143d648b6575f7d28c603              177 Release
- bb51714e369f993e8bb86a8ca4a487f7ccc5d03dadfcca96fc958ab904e298f5ca4b488416fe5d9ab3359557cfcd4b2da0e2cb8a987ef6de8db9b6d53ea14e92              568 main/binary-amd64/Packages
- 331b3d8f797c249632c8adc18fa556be5d809810d280e67c1f802a31a7f6c7af59024b3a7371bf7727a0e611d2aeda7c3cc672254cbb258d954b4198d1d46dcd              439 main/binary-amd64/Packages.gz
+ 8f4ee590a69fc104a26661008966f0f87930bbf3ab41a77d6ae0d55be5b335ec947a716b0ca99bae3e29296a5c1f64622d416eef01747dee45661b18ae286b3e              177 Release
+ b4038048618090ffc9e19abaaa4f10a2d73600b212eef31d16b2f54eb67f5296020e593d75198521cfeb7162608741545f7090d2b65a8a3c43b3b91014c8c7a0              568 main/binary-amd64/Packages
+ 37929af97f4161178168ce4888b7c4586c177311c18f52ea7e72ffabecf38db03c02e35b6f76f03091f90a5b89982658675f47b06c0a64ba7e5602a789c4a986              441 main/binary-amd64/Packages.gz
